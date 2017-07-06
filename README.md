@@ -1,6 +1,5 @@
 # Starter Project
 
-
 Using Node.js is so excited because it allows you to build fast, scalable APIs and site in JavaScript.
 
 Node.js is a tool to run JavaScript on a server and we can build web application and APIs in strainght JS, and can be using a framework called Express for create a secure web server.
