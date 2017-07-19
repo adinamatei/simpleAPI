@@ -1,4 +1,4 @@
-# Simple Api Project using Express
+# Simple API Project
 
 Using Node.js is so exciting because it allows you to build fast, scalable APIs in JavaScript.
 
