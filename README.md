@@ -12,3 +12,6 @@ Setting up and Installation
 
 * Clone this repo and install the dependencies with:
 ```npm install```
+
+* Run project with
+```npm start```
